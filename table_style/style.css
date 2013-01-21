@@ -1,0 +1,15 @@
+body {
+  text-align: center
+}
+.data {
+  display: none;
+}
+#mytable {
+  clear: both;
+  margin: auto;
+  width: 75%;
+}
+.col {
+  height: 100px;
+  float: left;
+}
