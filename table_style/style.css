@@ -13,3 +13,10 @@ body {
   height: 100px;
   float: left;
 }
+tbody, tr {
+  width: 100%;
+}
+table, tbody, td, tr {
+  display: inline-table;
+  border-spacing: 0px;
+}
